@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+ 
+  header {
+    padding: 20px;
+    margin-bottom: 10px;
+    color:#333;
+    background-color: lightgrey;
+    width: 100%;
+}
+
+body {
+      margin-right: 15%;
+      margin-left: 15%;
+      font-size: 24px;
+      line-height: 32px;
+      background-color: gray;
+      color:#333;
+  }
+
+#nav {
+      padding: 20px;
+      margin-bottom: 10px;
+      color:#333;
+      background-color: lightgrey;
+      width: 100%;
+}
+
+#full {
+    padding: 10px;
+    margin-bottom: 20px;
+    color: #333;
+    background-color: lightgray;
+    width: 450px;
+    height: 300px;
+}
+
+#article {
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 80%;
+    color: #333;
+    background-color:grey;
+    justify-content: center;
+}
+
+.bunny {
+    padding: 20px;
+    margin-top: 15%;
+    color: #333;
+    background-color: lightgray;
+    width: 100%;
+    height: 50px;
+}
+
+#p {
+    padding: 20px;
+    margin-top: 3%;
+    margin-left: -20px;
+    color: #333;
+    background-color: lightgray;
+    width: 112%;
+    height: 50px;
+}
+
+#aside {
+    padding: 20px;
+    background-color: lightgrey;
+    top: 26.5%;
+    bottom: 50%;
+    right: 420px;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    border-left-color: grey;
+    border-left-width: 10px;
+    border-left-style: solid;
+}
+
+footer {
+    padding: 20px;
+    margin-top: 10px;
+    color:#333;
+    background-color: lightgrey;
+    width: 100%;
+}
